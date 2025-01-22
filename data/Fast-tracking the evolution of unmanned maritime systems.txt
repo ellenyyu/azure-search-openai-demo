@@ -1,0 +1,218 @@
+		ABOUT US
+		CONTACT
+		NEWSLETTER
+		ADVERTISE
+		PRODUCT SHOWCASE
+		
+		
+		
+
+		News 
+		 
+		 
+		 
+		 
+		Articles 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		Case Studies Magazine Members Events Video
+		
+		
+
+ARTICLE
+Fast-tracking the evolution of unmanned maritime systems
+Shaping naval strategies worldwide
+By George Galdorisi • March 19, 2024
+In an era of great power competition, unmanned maritime systems (UMSs) have begun to take centre stage and are now on an accelerated development path for reasons that are clear. Like their air and ground counterparts, these UMSs are valued because of their ability to reduce the risk to human life in high threat areas, to deliver persistent surveillance over areas of interest, and to provide options to war fighters that derive from the inherent advantages of unmanned technologies.
+The past year may well be remembered as a high-water mark for the insertion of UMSs into a number of international exercises, experiments and demonstrations that have, literally, spanned the globe. Over the course of these events, unmanned maritime systems have performed an increasingly ambitious and complex series of missions, giving great confidence to those nations and navies who see them as an important part of their fleets.
+While it will take years to unpack all the lessons learned from the ongoing war in Ukraine, one mission that has surfaced during this conflict that connects maritime warfare and unmanned surface vehicles is the use of USVs armed with explosives to attack naval vessels. This is a tactic and concept of operations that has been discussed in numerous professional articles and even war-gamed, but until now has been hypothetical.
+
+Today it is real. As described in reports of Ukraine’s attacks on Russian naval vessels in the Black Sea, armed USVs have been used with deadly effect. Here is how one naval analyst described the momentous impact of using armed USVs to attack naval vessels and what that means for the future of maritime warfare:
+“Ukraine’s attack on Sevastopol on 29 October 2022 will go down in history as the first major example of what many believe is a new era of drone warfare. The Russian Navy Black Sea Fleet found itself defending against both surface and aerial drones. Seven uncrewed surface vessels (USVs) were involved, along with nine uncrewed air vehicles (UAVs).
+“USVs have evolved quickly over the past few years, but only now have they truly gone to war. The surface drones approached the port in the early morning. They raced toward their targets, piloted remotely from hundreds of miles away using onboard electro-optical devices. On their bows, impact fuses would detonate the warheads. Future wars may see increased use of weaponized surface drones.”
+
+
+
+T38 Devil Ray (foreground) operating with U.S. Coast Guard Cutter.
+Accelerating unmanned maritime systems development – Middle East efforts
+To be clear, the advantages of accelerating the development of unmanned maritime systems have not been restricted to the United States. The U.S. Navy is not the only navy keenly interested in unmanned surface vehicles, and the following events show the keen interest of the navies of many nations in finding new missions for these UMSs.
+International Maritime Exercise (IMX), held under the auspices of U.S. Naval Forces Central Command, Commander Task Force 59 in the Arabian Gulf, focused on the integration of manned and unmanned vessels and included operations with several regional partners. Navies and coastguards of the nations and navies involved in IMX worked to fully explore the capabilities of unmanned systems such as the Saildrone, the MARTAC MANTAS and Devil Ray, and many other USVs from participating nations. This is the first time that so many nations participated in an event of this type.
+In the run-up to IMX, the Commander of U.S. Naval Forces Central Command, U.S. 5th Fleet, Vice Admiral Brad Cooper, noted: “The Navy has been working with manufacturers to test new technologies, including firms such as Saildrone and MARTAC under a contractor-owned, contractor-operated model.”
+What is noteworthy about CTF-59 operations in the Arabian Gulf is the fact that IMX was not a ‘one-off’. Rather, manned-unmanned integration operations in the Arabian Gulf continue. The U.S. Navy now has 20 USVs in or near the waters of the Arabian Gulf. Indeed, the United States and its allies want a force of 100 unmanned surface vessels patrolling waters from the Red Sea to the Arabian Gulf by the end of this year.
+One U.S. USV company, Maritime Tactical Systems (MARTAC), was a primary participant in IMX. Its unmanned surface vehicles, MANTAS and Devil Ray, were mainstays of this exercise. Here is how one defence analyst captured the essence of MARTAC’s participation in this major exercise:
+“MARTAC has a strong presence in 5th Fleet operating with Task Force 59, a Middle East-based taskforce working on the development of unmanned systems. Typical missions for MARTAC include intelligence, surveillance and reconnaissance, port and harbour security and sensing capabilities, in addition to classified missions.”
+
+
+T38 Devil Ray – shoreline operations.
+Accelerating unmanned maritime systems development – Asia-Pacific efforts
+In another international exercise focused on missions for unmanned maritime systems, the Australian Defence Force (ADF) hosted Exercise Autonomous Warrior (AW). Nations participating in this Royal Australian Navy-led exercise included Australia, New Zealand, the United Kingdom and the United States, and featured a total of 30 autonomous systems. The unmanned surface vehicles that were part of this two-week exercise were the Saildrone, MANTAS and Devil Ray featured in IMX, the Atlas Elektronik ARCIMS, the Elbit Systems Australia SEAGULL and the Ocius Bluebottle.
+Another exercise, the bi-annual Rim of the Pacific (RIMPAC) exercise (the world’s largest international maritime exercise) was especially noteworthy as the U.S. Navy inserted four unmanned surface vehicles in this major international exercise. RIMPAC gave the event’s 26 participating nations an opportunity to see these USVs in action.
+The U.S. Third Fleet Commander, Vice Admiral Michael Boyle, the commander of RIMPAC, put special emphasis on the unmanned vehicles participating in RIMPAC, as well as manned-unmanned integration:
+“What’s also new in this RIMPAC is a lot more integration of unmanned systems – on the surface, in the air and under the surface. The four unmanned surface vehicles that the Navy brought to the exercise carried specialized payloads for anti-submarine warfare, intelligence, surveillance and reconnaissance, domain awareness and communications capability.”
+One of the important lessons learned regarding the operations of unmanned surface vessels during RIMPAC was what was important to the sailors operating these four USVs. One official from the Navy’s programme office for unmanned maritime systems noted that: “One of the biggest pieces of feedback we’re getting is that they’re [sailors operating these USVs during RIMPAC] talking about payloads, they’re talking about capabilities. They’re not talking about the autonomy. They’re not worried that [the USV] is going to ever run into something.”
+
+
+T38 Devil Ray during Australian operation Autonomous Warrior.
+Accelerating unmanned maritime systems development – European/MENA efforts
+On the other side of the world, NATO exercises REPMUS, and the follow-on Dynamic Messenger, provided an opportunity for NATO nations to evaluate unmanned systems and their ability to coordinate on, above and under the sea. Led by Portugal and conducted near the Troia Peninsula, these exercises focused on the integration of 120 autonomous assets into a single network. Several NATO commands – NATO’s Allied Command Transformation, NATO’s Allied Maritime Command, the NATO Centre of Excellence and the NATO Centre for Maritime Research and Experimentation – were part of these exercises. This enabled partner nations to learn best practices regarding how to shepherd unmanned systems into their respective navies.
+Soon after these exercises, the U.S. Navy-led exercise Digital Horizon, a three-week event in the Middle East, focused on employing artificial intelligence and 15 different unmanned systems (12 USVs and 3 UAVs), many of which were operated in the region for the first time. The exercise, meant to be a continuation of IMX but on a significantly larger scale, was hosted by Task Force 59 and built on the work done during IMX. Indeed, Digital Horizon was the largest international unmanned exercise ever held.
+Digital Horizon brought together new, emerging unmanned technologies and combined them with data analytics and artificial intelligence to enhance regional maritime security and strengthen deterrence. The exercise featured 17 companies that collectively brought 15 different types of unmanned systems, ten of which operated with U.S. 5th Fleet for the first time. As Captain Michael Brasseur, commodore of Task Force 59, noted, one of the objectives of Digital Horizon was to use unmanned maritime vehicles to conduct intelligence surveillance and reconnaissance missions, including identifying objects in the water and spotting suspicious behaviour.
+Impact on future naval operations
+From the perspective of the U.S. Navy, these exercises and initiatives are important and represent a significant course change as the Navy works to convince Congress that its plans for unmanned systems are sound. Secretary of the Navy, the Honorable Carlos Del Toro, noted the Navy’s new ‘show, don’t tell’ philosophy built on an ongoing series of exercises, experiments and demonstrations, further indicating that he believes that the Navy is: “On the same page as Congress.”
+Looking ahead to this year and beyond, world navies are keen to bring both commercial off-the-shelf (COTS) unmanned maritime systems, as well as other USVs in various stages of development, to exercises, experiments and demonstrations. This will enable them to not only demonstrate their own capabilities, but to also learn best practices by observing the operations of unmanned maritime systems of other nations. These efforts are certain to accelerate the development of these USVs and, for the U.S. Navy, hasten the goal of a 500-ship Navy that is envisioned to have 350 crewed ships and 150 unmanned vessels.
+
+
+T38 Devil Ray night operations during International Maritime Exercise Arabian Gulf.
+
+Value staying current with hydrography?
+Stay on the map with our expertly curated newsletters.
+We provide educational insights, industry updates, and inspiring stories from the world of hydrography to help you learn, grow, and navigate your field with confidence. Don't miss out - subscribe today and ensure you're always informed, educated, and inspired by the latest in hydrographic technology and research.
+
+Choose your newsletter(s)
+
+PDF
+
+Print
+
+Share
+
+George GaldorisiAuthor
+Captain George Galdorisi (USN, retired) is a career naval aviator whose 30 years of active duty service includ...
+Hydro International
+
+Read current issueView magazine archive
+Also Read
+
+OCEAN MAPPING
+Pushing the boundaries of marine research and exploration
+December 17, 2024
+
+AUTONOMOUS SURVEYING
+Hydro International visits Exail in La Ciotat
+November 29, 2024
+
+AUTONOMOUS SHIPPING
+Dutch developments in autonomous shipping
+October 24, 2024
+Latest Articles
+All Articles
+→
+
+Skills and tech: hydrography’s balancing act
+Wim van Wegen•January 21, 2025
+
+Promising future for hydrography
+Durk Haarsma•January 13, 2025
+
+Debunking geodetics in specifications
+Huibert-Jan Lekkerkerk•January 6, 2025
+
+Pushing the boundaries of marine research and exploration
+Jyotika I. Virmani•December 17, 2024
+
+The revolutionary capabilities of next-generation autonomous underwater vehicles
+Layton Quinton•December 10, 2024
+
+Aerial surveying for climate action
+Ada Perello•December 2, 2024
+
+Hydro International visits Exail in La Ciotat
+Durk Haarsma•November 29, 2024
+
+ICESat-2 photons: strengthening shallow-water bathymetry
+Dandabathula Giribabu•November 22, 2024
+
+Unlocking the power of robotics and automation
+Wim van Wegen•November 12, 2024
+
+Mapping Chicago’s beach and nearshore sand distributions for effective management
+Robin Mattheus•November 5, 2024
+
+Dutch developments in autonomous shipping
+Rolph Hijdra•October 24, 2024
+
+How seafloor mapping reveals New Zealand’s maritime history
+Adam Greenland•October 21, 2024
+Latest News
+All News
+→
+
+First Reach Remote vessel delivered for offshore surveys
+January 21, 2025
+
+Exail introduces Octans 9 gyrocompass for marine precision
+January 21, 2025
+
+Hydrographic sector looks ahead to Ocean Business 2025
+January 20, 2025
+
+Fugro delivers enhanced marine protection for Italy’s coastal waters
+January 17, 2025
+
+NOAA selects Woolpert for hydrographic surveys supporting safe navigation
+January 17, 2025
+
+Omicron connectors facilitate BBC Studios’ landmark ocean series
+January 14, 2025
+
+NextGeo wins multimillion contract for Dutch offshore wind areas
+January 14, 2025
+
+K.U.M. selected for key role in Greensand Future project
+January 13, 2025
+
+Kongsberg Discovery strengthens position with Naxys acquisition
+January 9, 2025
+
+Exail marks milestone with first sale of DriX O-16 USV
+January 9, 2025
+
+Cypriot technology firm secures USV for new projects in Eastern Mediterranean
+January 7, 2025
+
+NextGeo invests in fleet growth
+January 6, 2025
+
+
+
+
+Hydro International started out as a print magazine in 1996 and soon developed into the multimedia platform it is today, featuring a successful website and respected weekly newsletter. Hydro International is published six times a year. The magazine is international in scope and focuses on bringing to its readership topical overviews and the latest news and developments in the technology and management of hydrographic and oceanographic activities.
+Browse by
+		News
+		Articles
+		Case Studies
+		Magazine
+		Video's
+Connect with us
+		LinkedIn
+		Facebook
+		Twitter
+		RSS
+		Weekly Newsletter
+Information
+		About us
+		Marketing Solutions
+		Contact
+		Contribute
+		Geomares Marketing
+		Privacy
+		Cookies
+		Terms & Conditions
+		Sitemap
+		Contact
+		Advertise
+© 2025 Geomares. Copyright reserved.
+This site uses cookies. By continuing to use this website, you agree to our Cookies Policy. Agree
+
+
+
+
+

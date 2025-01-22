@@ -1,0 +1,121 @@
+Skip to main content
+
+
+DONATE
+		CART  
+		 JOIN OR LOG IN
+		SEARCH
+Main navigation
+		ABOUT USMEMBERSHIPBOOKS & PRESSUSNI NEWSPROCEEDINGSNAVAL HISTORYARCHIVESEVENTSDONATE
+
+
+A Saildrone Explorer unmanned surface vessel operates with the guided-missile destroyer USS Delbert D. Black (DDG-119) during exercises in the Arabian Gulf. The best way to employ unmanned systems is through an integrated approach.
+U.S. NAVY (ROLAND FRANKLIN)
+		Essay Contests  Current IssueThe Proceedings PodcastAmerican Sea Power ProjectContact Proceedings  All Issues
+
+
+A Framework for Unmanned Systems at Sea
+The Navy needs a plan to guide its use of unmanned systems for distributed maritime operations and information warfare.
+By Commander Mike Posey, U.S. Navy, and Lieutenant Colonel Paul Lushenko, U.S. Army
+July 2024 Proceedings Vol. 150/7/1,457
+FEATURED ARTICLE VIEW ISSUE
+Facebook
+Twitter
+Reddit
+Email
+Share
+COMMENTS
+As the Orca extra-large unmanned undersea vehicle cuts through the sea’s surface, it receives a satellite-relayed mission order from the fleet commander: “Destroy Target Alpha to enable the main effort’s penetration of the enemy’s defenses.” After diving below, and in concert with dozens of subsurface, surface, and aerial uncrewed systems, the Orca maneuvers to assume its strike position. Inbound from their respective rendezvous points, the platforms employ a coordinated barrage of lethal and nonlethal fires, including electromagnetic jamming and cyberattacks, to blind and disorient the enemy. Ultimately, the massed fires afford the fleet commander a momentary window to penetrate the enemy’s antiaccess/area-denial (A2/AD) defenses with manned aircraft, missiles, and bombs. Having accomplished their mission, the uncrewed systems rapidly disperse, capitalizing on their stealth and speed to avoid the enemy’s counterattack. 
+This scenario illustrates one possible advantage of employing unmanned systems at sea in a conflict with a near-peer adversary—mass. Indeed, unmanned systems can provide fleet and joint task force commanders asymmetric advantages when conducting distributed maritime operations (DMO) across the competition continuum. To that end, the U.S. Navy stood up Task Force (TF) 59, which is designed to integrate unmanned systems and artificial intelligence (AI) with maritime operations, specifically in the Fifth Fleet area of operations.1 
+Modernization as called for in Advantage at Sea, the triservice maritime strategy, requires that senior leaders consider how to use emerging technologies to counter adversaries through both offensive operations and defensive countermeasures.2 TF 59 has made impressive progress in developing myriad unmanned systems. Yet, the Navy needs a framework to help inform its use of such systems during DMO, as well as to guide strategy, operations, tactics, and acquisition during the next three to five years.
+
+
+An MQ-8C Fire Scout gathers performance data during a mine-countermeasures prototype demonstration. Unmanned systems such as the Fire Scout can provide early warning and extend a ship’s sensor range for a variety of activities. U.S. Navy
+Methods of Employment
+The conflict in Ukraine demonstrates the growing importance of unmanned systems, especially in the maritime domain.3 Given this trend, an end-to-end framework is needed to guide the use of unmanned systems during DMO, including during operations in the information environment. Four force employment methods—picket, distributed, mass, and integrated—are relevant across the competition continuum and can apply to different actions, operational outcomes, enduring naval capabilities, and tenets of the new joint warfighting concept (see Table 1). Capabilities are drawn from Naval Doctrine Publication 1, Naval Warfare, and joint warfare concepts from former Chairman of the Joint Chiefs of Staff retired General Mark Milley’s recent article in Joint Force Quarterly, “Strategic Inflection Point: The Most Historically Significant and Fundamental Change in the Character of War Is Happening Now—While the Future Is Clouded in Mist and Uncertainty.” 
+
+
+Picket. Stationary unmanned systems are deployed within sensor range of friendly critical capabilities, including ports and ships, as well as key maritime terrain, such as sea lines of communication, to enhance situational awareness, facilitate communication, and enable force protection. Used in this way, unmanned pickets can perform similar functions to helicopters attached to cruisers or destroyers. First, they can provide early warning of enemy activity. Second, pickets—because of their resiliency in different sea states—can serve as communication relays, extending the range of communications and providing redundancy. Finally, unmanned pickets can help commanders’ tactical fires by providing lethal and nonlethal capabilities, albeit limited ones. Together, these advantages can provide maritime security and force protection. The picket method also enables information advantage and integrated, agile command and control. 
+
+For example, pickets are useful for maritime interdiction operations because they can extend ships’ sensor ranges to locate vessels carrying illicit cargoes, allow commanders to monitor vessel boardings, and then observe ongoing search and seizure operations. All the while, unmanned pickets can provide a protective belt around a ship, guarding against potential threats such as an adversary’s maritime drones or small attack boats, and affording a limited counterattack capability.
+Distributed. Unmanned systems are geographically dispersed and used beyond the sensor range of aircraft, ships, and ports, providing an over-the-horizon capability. Similar to pickets, distributed unmanned systems can be useful across the competition continuum, providing situational awareness and force protection. They also offer two additional benefits. First, they can enable force projection, allowing U.S. Navy forces to enforce the U.N. Convention on the Law of the Sea through freedom of navigation operations. Second, distributed unmanned systems can enable deterrence, which is inherently psychological. Deployed at scale, they can strike rapidly at multiple different times and places, a threat that puts an adversary on the horns of a dilemma and can create more vulnerabilities. Together, these capabilities enable information advantage and global fires, two tenets of the joint warfighting concept.
+During conflict, a distributed drone force could degrade adversary capabilities across a wide area, increasing ambiguity for adversary decision-makers about where, when, and how U.S. military forces might strike. Indeed, the adversary cannot kill every ship, so it must bide its time to strike what it believes are capital ships. Thus, commanders can use the distributed model to deceive adversaries and enable friendly offensive and defensive operations. First, distributed unmanned systems can provide intermittent electromagnetic signatures, disorienting adversary decision-makers and causing them to pause operations or reappropriate resources. While the adversary figures out which target is a ship and which is a cheap unmanned system, distributed unmanned systems can mass fires at a single critical vulnerability. Second, distributed unmanned systems can conduct pseudorandom pulsed operations that dazzle adversary sensors and obfuscate critical movements at sea. This deception enables essential sustainment operations, such as the replenishment of ships at sea or the resupply of a Marine littoral regiment.
+Mass. Unmanned systems converge across domains to destroy an adversary’s critical capabilities. By massing, these systems trade space for time and impose high costs on an enemy while safeguarding friendly forces. The ability to penetrate an adversary’s A2/AD with no friendly casualties would make an adversary reassess its entire strategy. 
+In addition to these offensive operations, using un--manned systems for mass, when synchronized with information operations, can impose a psychological effect. Clausewitz wrote that resistance is the product of means and will. By attriting an adversary’s critical vulnerabilities using a mass of affordable and attritable unmanned systems, a fleet commander not only reduces the adversary’s capabilities, but also diminishes its will to fight. The combined physical and cognitive effect offers an operational advantage.  
+
+Massing unmanned systems also can disrupt an adversary’s command and control and cause it to misallocate resources because of misperceptions of the battlespace. Alongside other instruments of power, this employment could cause U.S. adversaries to rethink a planned attack, thus enabling successful deterrence by denial. 
+
+
+A Marine Corps XQ-58 Valkyrie—a highly autonomous, low-cost, tactical unmanned aircraft—conducts its second test flight with two Air Force F-35A Lightning II aircraft in February 2024. The XQ-58 was designed to act as a loyal wingman controlled by a parent aircraft. Possible tasks include scouting, defensive fire, and absorbing enemy fire. U.S. Air Force (John McRell) 
+Integrating Picket, Distributed, and Mass Unmanned Systems
+While these models for employing unmanned systems could be undertaken today with existing technology, automation offers additional options. The best way to employ unmanned systems is through an integrated approach based on human-machine teaming. Human-machine teaming is designed to optimize personnel performance by capitalizing on the benefits of AI, including the ability to rapidly synthesize large quantities of information provided by an array of sensors distributed across the maritime domain. With this capability, military leaders can shorten the sensor-to-shooter timeline, defined as the interval of time between acquiring and prosecuting a target.
+
+
+A Marine Corps rifleman launches a Switchblade drone during a Marine littoral regiment training exercise. The Switchblade 600 has been selected for tranche 1 of the Replicator Initiative and potentially could be used in swarms to counter U.S. enemies. U.S. Marine Corps (Scott Aubuchon) 
+What are the implications of human-machine teaming for the maritime use of unmanned systems? Researchers Avi Goldfarb and Jon Lindsay contend that data requirements impose the need for more human judgment, which suggests future warfare will be characterized by continued human participation.4 On the other hand, human-machine teaming may allow Navy forces to better deter adversaries given the anticipated effects, assuming service members come to trust AI-enhanced military technologies. 
+The Navy can employ either a “centaur” (manned-unmanned) or “minotaur” (unmanned-manned) model of human-machine teaming. Warfighters could use AI-enhanced military technologies for tactical decision-making with human oversight—the centaur method. Named for the Greek mythological creature whose upper body is human and lower half is a horse, this method of warfare emphasizes human control of machines for military purposes, such as destroying an enemy submarine. In offensive operations, the centaur model works best with a human in the lead for decisions such as power projection, offensive combat sweeps, and surface action group takedowns. 
+The Navy also could use AI-enhanced military technologies such as “edge AI,” in which AI is accomplished in an edge computing environment at each platform (as opposed to centralized processing), for tactical decision-making with machine oversight—the minotaur model, named for the creature with the head of a bull and the body of a human.5 This is characterized by machine control of humans during combat and across domains, which can include a constellation of ships. Indeed, the minotaur model is the logical next step for many maritime missions in which automation is commonplace, such as ballistic-missile defense, integrated air-and-missile defense, and defense against adversary small-boat or drone swarms.
+Integrating picket, distributed, and mass strategies through human-machine teaming also capitalizes on a key lesson from the war in Ukraine: Drone warfare includes electromagnetic warfare. Therefore, electromagnetic protection must be built into every unmanned system and its controller. It is too late to bolt on electromagnetic hardening after the fact. Adaptable options for transmission connectivity also cannot be an afterthought. Finally, every unmanned system must be able to jam adversary communications and adapt its signature to the largest extent possible. Using the electromagnetic spectrum, these unmanned systems can blind and confuse the adversary, multiplying their operational utility. In this way, the fleet of unmanned systems can become the information warfare armada the Navy needs in future conflicts.
+Employing unmanned systems in these ways affords many tactical and operational advantages. The partnership between uncrewed and crewed assets offers flexibility, survivability, and tactical options at the task force, strike group, or unit level. Unmanned systems can sweep, screen, and block adversary fires, enabling friendly convergence and penetration of adversary A2/AD weapon engagement zones. At the operational level, human-machine teaming allows battle watch captains to better understand the battlespace and direct finite resources. 
+Coupled with electromagnetic spectrum tool kits, unmanned systems can achieve an information advantage for the fleet. With practice, human-machine teaming can take advantage of the benefits of the first three employment models and achieve military effects while protecting against unintended consequences, including collateral damage, especially civilian casualties. Humans are arguably best suited for decisions that call for necessity, proportionality, or distinction.6 
+Act Now
+Picket, distributed, mass, and human-machine teaming offer a common lexicon for how naval and joint forces can conceptualize and employ unmanned systems at sea. The Naval Warfare Development Center should codify the tactics, techniques, and procedures of this proposed framework and its links to DMO and the tenets of the joint warfighting concept. Weapons and tactics instructors also should test and refine the methods in this conceptual framework. 
+
+1. PO1 Roland Franklin, USN, “U.S. 5th Fleet Launches New Task Force to Integrate Unmanned Systems,” U.S. Naval Forces Central Command, 9 September 2021.
+2. Gen David H. Berger, USMC, ADM Michael M. Gilday, USN, and ADM Karl L. Schultz, USCG, Advantage at Sea: Prevailing with Integrated All Domain Naval Power (Washington, DC: Department of the Navy, December 2020), 1.
+3. Marc Santora and Christiaan Triebert, “Ukraine Hits a Distant Russian Ship, Showing Reach of Naval Drones,” The New York Times, 4 August 2023.
+4. Avi Goldfarb and Jon R. Lindsay, “Prediction and Judgment: Why Artificial Intelligence Increases the Importance of Humans in War,” International Security 46, no. 3 (Winter 2021/22): 7–50.
+5. Tiffany Yeung, “What Is Edge AI and How Does It Work?” NVIDIA Blog, 17 February 2022.
+6. Paul Lushenko and Shyam Raman, The Legitimacy of Drone Warfare: Evaluating Public Perceptions (London, UK: Routledge, 2024).
+
+Commander Mike Posey, U.S. Navy
+Commander Posey is director of maritime operations and an assistant professor at the U.S. Army War College. He is an active-duty naval flight officer in the E-2 Hawkeye with a subspecialty in information systems and operations. 
+MORE STORIES FROM THIS AUTHOR VIEW BIOGRAPHY
+Lieutenant Colonel Paul Lushenko, U.S. Army
+Lieutenant Colonel Lushenko is director of special operations and an assistant professor at the U.S. Army War College. He is the coeditor of Drones and Global Order: Implications of Remote Warfare for International Society (Routledge, 2022) and coauthor of The Legitimacy of Drone Warfare: Evaluating Public Perceptions (Routledge, 2024). He received his PhD in international relations from Cornell University.
+MORE STORIES FROM THIS AUTHOR VIEW BIOGRAPHY
+
+
+
+Related Articles
+
+
+P FEATURED ARTICLE 
+Countering the Drones of War—in the United States
+By Lieutenant Commander Charles Johnson, U.S. Navy July 2024
+The U.S. military must be prepared to counter the drone threat at home.
+
+
+P FEATURED ARTICLE 
+Problems for Agile Combat Employment
+By Captain Michael Blaser, U.S. Air Force July 2024
+Deception is critical to beat enemy space-based intelligence and targeting.
+
+
+P OCEANS 
+Ocean Drones: A Revolution in Marine Robotics
+By Rear Admiral Tim Gallaudet, U.S. Navy (Retired) March 2024
+If China gets back in the business of stealing U.S. ocean drones, there will be no small number from which to choose.
+
+
+Quicklinks
+Footer menu
+		About the Naval Institute  Books & Press  Naval History  USNI News  Proceedings  Oral Histories  Events  Naval Institute Foundation  Photos & Historical Prints  Advertise With Us  Naval Institute Archives
+Receive the Newsletter
+Sign up to get updates about new releases and event invitations.
+Sign Up Now
+Example NewsletterPrivacy Policy
+
+Copyright © 2025 U.S. Naval Institute
+Privacy PolicyTerms of UseContact UsAdvertise With UsFAQContent LicenseMedia Inquiries
+		 Facebook Twitter LinkedIn Instagram
+Powered by Unleashed Technologies
+×
+You've read 2 out of 5 free articles of Proceedings this month.
+Non-members can read five free Proceedings articles per month. Join now and never hit a limit.
+
+
+
+
+
+

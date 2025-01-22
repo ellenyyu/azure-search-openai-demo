@@ -1,0 +1,143 @@
+
+Center for International Maritime Security
+Search
+SKIP TO CONTENT
+		WRITE FOR CIMSEC ANNUAL FICTION WEEK READINESS FOR PACIFIC WAR 2027 VOLUNTEER PROJECT TRIDENT
+		CHOKEPOINTS AND LITTORALS TOPIC WEEK
+		OCEAN GOVERNANCE TOPIC WEEK
+		REGIONAL STRATEGIES TOPIC WEEK
+		FICTION WEEK
+		MARITIME CYBERSECURITY WEEK
+		INFRASTRUCTURE & TRADE WEEK
+		EMERGING TECHNOLOGIES
+		 MARITIME STRATEGY SERIES PODCASTS
+		SEA CONTROL
+		 ABOUT US
+		JOIN CIMSEC
+		STAFF / CONTACT
+		DONATE
+		KICKSTARTER CONTRIBUTORS
+		CIMSEC PRIVACY POLICY
+
+LAW OF WARFARE
+UNMANNED MARITIME SYSTEMS AND WARSHIPS: INTERPRETATIONS UNDER THE LAW OF THE SEA
+JULY 31, 2024 GUEST AUTHOR 1 COMMENT
+By Takeo Imura
+Introduction
+Unmanned systems technologies possess great potential for changing the landscape of military operations. Today’s unmanned systems include aircraft, ground vehicles, and surface and subsurface vessels.
+Military forces are experimenting with unmanned systems, which are expected to help the military reduce casualties and increase mission endurance. The U.S. Navy enumerates various missions expected for unmanned systems and plans to substitute them for some existing manned platforms.1
+Treating unmanned vessels as warships requires examining whether they meet the definition of a warship under the United Nations Convention on the Law of the Sea (UNCLOS). The legal status of naval vessels under UNCLOS varies widely depending on whether a navy operates its ships as warships, non-commercial government vessels, or accessories to conventional warships.        
+This paper discusses whether unmanned systems can be considered warships under UNCLOS, especially with today’s voracious appetite for developing the technology; however, the legal status of unmanned vessels as warships remains uncertain. International agreements on the legal status of unmanned vessels would help establish the legitimacy of naval operations employing them.
+Unmanned Vessels and Warship Status
+Article 29 defines a warship as:
+“A ship belonging to the armed forces of a State bearing the external marks distinguishing such ships of its nationality, under the command of an officer duly commissioned by the government of the State and whose name appears in the appropriate service list or its equivalent, and manned by a crew which is under regular armed forces discipline.”2
+Accordingly, four conditions must be met to determine whether unmanned vessels can be considered warships under UNCLOS. They are defined as a “ship,” bear “external marks” of the possessing flag state, are “under the command of an officer,” and are “manned by crew.” Each of these conditions is considered in the following analysis.
+Ships
+UNCLOS does not provide a specific definition of what constitutes a ship. Article 91 states, “[s]hips have the nationality of the State whose flag they are entitled to fly.”3 Further, article 92 provides “[s]hips shall sail under the flag of one State only…[and a] ship may not change its flag during a voyage or while in a port of call, save in the case of a real transfer of ownership or change of registry.”4 Accordingly, UNCLOS declares that all ships must maintain a genuine link with their state and fly their flag to show who possesses jurisdiction.5 Article 94 mandates that “[e]very State shall effectively exercise its jurisdiction and control in administrative, technical and social matters over ships flying its flag.”6 There are certain requirements the flag state must meet to maintain a genuine link between the ship and the State, such as undertaking measures “to ensure safety at sea.”7 Paragraph 3b of the same article requires flag states to regulate “the manning of ships, labour conditions and the training of crews, taking into account the applicable international instruments.”8
+In the case of unmanned vessels, it would be difficult for a flag state to fulfill these requirements since they are unmanned. However, if the word “manning” is considered part of a greater flag state duty to ensure safety at sea, then this requirement can readily be met. Manning should not simply mean individuals being physically aboard. Additionally, the Vienna Convention on the Law of Treaties, Article 31, states, “any subsequent practice in the application of the treaty which establishes the agreement of the parties regarding its interpretation” is included in the meaning.9 Accordingly, the states party to UNCLOS may recognize unmanned vessels as ships unless such interpretation is contrary to the treaty’s terms, its object, or purpose and is evidenced by the subsequent practices of the parties. Evidence that many states are moving to accept unmanned vessels as ships can be found in the maritime transportation domain. Specifically, the International Maritime Organization (IMO) developed the maritime autonomous surface ship concept, or MASS.10 Considering the latitudes provided by the provisions of the Vienna Convention on the Law of Treaties, the IMO’s development of MASS demonstrates the definition of “manning” is not an obstacle to accepting unmanned vessels as ships under UNCLOS if flag states fill their requirements.11
+UNCLOS is not the only treaty that defines what constitutes a ship. For instance, the International Convention for the Prevention of Pollution from Ships (MARPOL) defines a ship as “a vessel of any type whatsoever operating in the marine environment.”12 Also, the Convention on the International Regulations for Preventing Collisions at Sea (COLREGs), Part A, Rule 3a states, “[t]he word vessel includes every description of watercraft… being used as a means of transportation on water.”13 Similar to MARPOL, this definition encompasses a wide variety of vehicles, with the main difference being whether the vehicle is used for transportation on water. However, a ship without transporting something is difficult to imagine. Even unmanned vessels carry payloads that are not essential for navigation. For example, the SD1045 unmanned vessel is used for maritime environment research and can change payloads to adjust to user demands.14
+Finally, the 1972 Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter (London Convention) defines a ship more broadly as a “waterborne…craft of any type whatsoever….”15 Based on this provision, a vessel can be interpreted as any vehicle that operates in or above water.
+In conclusion, unmanned vessels can be recognized as ships under UNCLOS or other treaties, given the broad definition of a “ship.” Therefore, a flag state has the legal authority to decide what device it will regard as a ship, provided it meets the minimal requirements of UNCLOS.16
+External Marks
+Generally, a flag, referred to as a naval ensign, is used as an external mark to show the status and nationality of a warship. Setting up a naval ensign on unmanned surface vessels may be possible. In the case of unmanned underwater vessels (UUVs), this requirement probably would need to be fulfilled by painting a flag or other substitute markings.
+Under the Command of an Officer
+There is no unified definition of the word “command.” One paper discussed the subject and stated, “…being in command does not require the person to make every decision and guide every action, and that the commander can be removed from the action to some extent.”17 This view is based on the military doctrines of the United States, Netherlands, France, and the North Atlantic Treaty Organization. This approach can be applied to the command of unmanned vessels, but the outcome may depend on the vessel’s degree of autonomy. There are three levels of human participation in the command of unmanned systems: “in the loop,” “on the loop,” and “out of the loop.”18
+The concept of “in the loop” is that a human is continuously and significantly involved in the actions of the unmanned vessels, operating it remotely.19 The concept of “human on the loop” is one in which humans monitor unmanned vessels and influence autonomous decisions without directly operating the system.20 The human has veto power over the actions of the unmanned vessels, which otherwise operate independently.21 “Human out of the loop” applies when humans are not involved in autonomous decisions – the system has full operational autonomy. Human control relates to the software programming that governs the unmanned vessel’s actions in such cases.22
+Unmanned vessels with “humans out of the loop” are controlled by high-end autonomous algorithms. Such unmanned systems equipped with weapons are categorized as lethal autonomous weapons systems (LAWS). Rules governing the operation of LAWS are currently one of the most controversial subjects in international law. Advocates for using LAWS in military operations focus on their contribution to military advantage as a moral justification.23 LAWS can reduce the loss of human life and expand operations into previously inaccessible areas.24 Further, they argue LAWS meet the requirements of morality because “autonomous robots in the future will be able to act more “humanely” on the battlefield […because] they do not need to be programmed with a self-preservation instinct.”25 Those who oppose the use of LAWS focus on the problem of accountability.26 Given the system’s autonomy and the unpredictability of decisions made by machine learning, it would be hard to identify the cause of flawed decisions and assign accountability. As one article puts it, “Where a human being makes the decision to use force against a target, there is a clear chain of accountability, stretching from whoever actually ‘pulled the trigger’ to the commander who gave the order.” 27 This is not the case with LAWS. While the commander can be identified and held accountable for the operation of unmanned systems with “in the loop” or “on the loop,” this is not the case with “out of the loop” systems.
+Some propose that “[s]ince a commander can be held accountable for an autonomous human subordinate, holding a commander accountable for an autonomous robot subordinate may appear analogous.”28 If so, commanders that employ unmanned systems cannot escape the responsibility for their operation, whether a human is in the loop or not. Traditionally, command responsibility is only implicated based on reasonable foreseeability of an untoward action, and the commander failed to prevent it.29 The possibility that a commander can reasonably foresee what LAWS will do is remote. Even if unmanned systems were only operated for non-combat missions, such as information gathering in peacetime, responsibility for non-lethal violations of UNCLOS or domestic law would remain an issue. Usually, in the case of manned warships, the responsibility falls on the tactical-level commander, such as the commanding officer.
+One solution some have proposed is to incorporate a recording function to provide a detailed operational log against which to hold a commander responsible. But is the tactical commander best positioned to reasonably foresee what the LAWS will do? Whether command responsibility lies with the tactical commander who deployed the system, the operational level commander who allocated the system to the tactical commander, or the commander responsible for the design and introduction of the system into the fleet remains unclear and the subject of debate. However, for the “command” requirement of UNCLOS Article 29 to be fulfilled, a commander must be aware of the operations conducted under his or her command. Since it is possible this will not be the case with LAWS, with humans “out of the loop,” it is an issue that remains unaddressed by international law.
+Manned by a Crew
+“Manned” is generally understood as a crew aboard a vessel. However, other laws that regulate or define ships do not include the condition of a crew being aboard. For example, U.S. code Title 33, section 4101 states unmanned systems are “…designed to function without an on-board human presence…”30 Other scholars point out in regard to the safety of life at sea (SOLAS),
+“SOLAS relies on states to ensure the safe manning of their ships. There is no minimum number of persons required to be on board so long as the primary safety concern is met. It can, therefore, be argued that a crew numbering zero is technically ‘adequate’ provided the operation is safe.”31
+At least in the private sector, crews are not required to be physically aboard unmanned vessels. Also, a boarded crew is not required in COLREG or MARPOL. That said, the history of the definition of warships might be different from ordinary ships.
+A warship has a specific definition derived from the history of privateers in the 16th to mid-19th centuries.32 A privateer “…was a privately-owned vessel, outfitted as a warship, authorized by a recognized national government, through the issuance of a commission to attack.”33 On the one hand, privateers did not always come under the control of the government, and abuse of its rights and abnormal practices occurred. Ultimately, privateering was abolished in 1856 by the Paris Declaration.34 Nevertheless, the use of civilian ships in wartime continued. The Hague Convention No. VII, on International Convention relative to the Conversion of Merchant-ships in Warships of 18 October 1907, provided regulations about converting merchants to warships. A merchant ship converted to a warship was given the rights of a warship (mainly belligerent rights).35 The Hague Convention influenced the drafting of UNCLOS, specifically the requirements in Article 29.36 The key to properly reading UNCLOS Article 29 is to focus on the requirement that “crews [be] under the appropriate discipline.” Physical manning is not the primary point of the article.37 Thus, while some form of human control of the warship is needed to fulfill the condition of the existence of a crew, physical manning is not required.
+Conclusion
+This analysis discussed whether navies should operate unmanned vessels as warships under the provision of UNCLOS Article 29. Considering the discussions above, one can say that unmanned vessels with “human in the loop” or “human on the loop” fulfill the conditions of Article 29. However, unmanned vessels with “humans out of the loop” do not fulfill the current conditions of Article 29 and do not acquire the status of warships.
+Undoubtedly, details of how to fill the requirements of “under the command of an officer” and “manned by crew” will be controversial with “out of the loop” unmanned systems. Concerning the command requirement, this paper concludes that commanders are at least responsible for the decisions to deploy unmanned systems, but the level of command responsibility remains unclear. Concerning the requirement that a ship has a crew, while some form of involvement of a ‘crew’ in the operation of the unmanned systems can fill the condition of Article 29, it might be difficult to meet the condition if autonomy develops to such a level that no crew involvement is required once the system is deployed; to be accorded the status of a warship requires “a crew which is under regular armed forces discipline.” Accordingly, navies that want to operate unmanned systems should carefully evaluate their desired missions and how to manage the command and crew requirements, especially in cases where unmanned systems will be fully autonomous.
+Takeo Imura is an operational legal advisor for the Japan Maritime Self-Defense Force. He previously served as a faculty member in the Japan Maritime Self-Defense Force Command and Staff College Operational Legal Office and as a military professor at the U.S. Naval War College Stockton Center for International Law. Before transitioning into law, was a submarine officer for nine years.
+References
+1. DEPARTMENT OF THE NAVY, OFFICE OF THE CHIEF OF NAVAL OPERATIONS, HEADQUARTERS U.S. MARINE CORPS, DEPARTMENT OF HOMELAND SECURITY AND U.S. COAST GUARD, THE COMMANDER’S HANDBOOK ON THE LAW OF NAVAL OPERATIONS, NAVY WARFARE DEVELOPMENT COMMAND (Mar 2022), pg., 2.3.4.
+2. United Nations Convention on the Law of the Sea, art 29, Dec. 10, 1982, 1833 U.N.T.S. 413, pg., 408.
+3. Ibid. pg., 433.
+4. Ibid.
+5. No article in UNCLOS stipulates that a ship without nationality is itself illegal. However, the fact that stateless vessels are listed among the vessels subject to on-site inspection under article 110, along with pirate ships and unauthorized broadcasting ships, suggests that non-nationality ships are not positive entities. Besides, in chapter 5 of Maritime Law Enforcement, page 56 of “Maritime Crime: A Manual for Criminal Justice Practitioners” by the United Nations Office on Crime and Drugs in 2017 said ” States were traditionally opposed to the idea that a ship might have no nationality because this would imply that there is no jurisdiction applicable to that vessel. This would be against the desire of States to ensure that proscribed conduct is subject to some level of jurisdiction in all places…” Thus, a ship without nationality would understood as an unacceptable existence.
+6. United Nations Convention on the Law of the Sea, Supra note 2, pg., 434.
+7. Ibid.
+8. Ibid.
+9. Vienna Convention on The Law of Treaties, art 31, May 23, 1969, 1155 U.N.T.S. 332. pg., 340.
+10. Autonomous shipping, International Maritime Organization, https://www.imo.org/en/MediaCentre/HotTopics/Pages/Autonomous-shipping.aspx (last visited Jun 27, 2024).
+11. These requirements are found in UNCLOS Articles 91, 92, and 94.
+12. International Convention for the prevention of pollution from ships, 1973, art 2(4), Feb. 17, 1978, 1340 U.N.T.S. 184, pg., 185.
+13. Convention on the international regulations for preventing collisions at sea, 1972, Part A Rule 3, Oct. 20, 1972, 1050 U.N.T.S. 18, pg., 22.
+14. THE WORLD’S MOST CAPABLE USVS, SAILDRONE, https://www.saildrone.com/technology/vehicles (last visited Jun 10, 2024).
+15. Convention on the prevention of marine pollution by dumping of wastes and other matter, art 3(2) Dec. 29, 1972, 1046 U.N.T.S. 138, pg., 140.
+16. Natalie Klein, How should the law treat underwater maritime autonomous vehicles?, The Strategist (May 4, 2023), https://www.aspistrategist.org.au/how-should-the-law-treat-underwater-maritime-autonomous-vehicles, (last visited Jun 11, 2024). (Discusses the legal challenges for the Australian Defence Force to adopt Maritime Autonomous Vehicles).
+17. Rain Liivoja, Eve Massingham, and Simon McKenzie, The Legal Requirement for Command and the Future of Autonomous Military Platforms, 99 Int’l L. Stud. 638, 652 (2022) (discussing the definition of the word “command”).
+18. Paul Scharre, Michael C. Horowitz, Working Paper: An Introduction To Autonomy In Weapon Systems, Center For a New American Security (Feb 13, 2015), https://www.cnas.org/publications/reports/an-introduction-to-autonomy-in-weapon-systems (last visited Jun 10, 2024), pg., 6.
+19. Christof Heyns (Special Rapporteur), Report of the Special Rapporteur on extrajudicial,
+summary or arbitrary executions, U.N. doc A/HRC/23/47 (2013), 39, 41, at 8.
+20. Ibid.
+21. Christof Heyns, Supra note 19, pg., 8.
+22. Ibid.
+23. Amitai Etzioni, Oren Etzioni, Pros and Cons of Autonomous Weapons Systems, Military Review 72, 72 (May-June 2017), https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/May-June-2017/Pros-and-Cons-of-Autonomous-Weapons-Systems/,(introducing opinions about discussion of Autonomous Weapons Systems).
+24. Ibid.
+25. Ibid. pg., 74.
+26. Ibid. pg., 75.
+27. Amitai Etzioni, Oren Etzioni, Supra note 23. Pg., 75.
+28. Christof Heyns, Supra note 19, pg., 15.
+29. Ibid.
+30. 33 U.S. Code § 4101 (2024).
+31. Robert Veal, Michael Tsimplis and Andrew Serdy, The legal status and operation of unmanned maritime vehicles, Ocean Development & International Law (2019), https://doi.org/10.1080/00908320.2018.1502500 (last visited Jun 10, 2024), pg. 36.
+32. Rain Liivoja, Eve Massingham, and Simon McKenzie, Supra note 17, pg. 660.
+33. David J Bederman, Max Planck Encyclopedias of International Law(Subject: “Privateering”), Oxford Public International Law (Oct 2008), https://opil.ouplaw.com/display/10.1093/law:epil/9780199231690/law-9780199231690-e382?rskey=pMAj9J&result=1&prd=MPIL (last visited Jun 10, 2024).
+34. Ibid.
+35. Rain Liivoja, Eve Massingham, and Simon McKenzie, Supra note 17, pg., 662.
+36. Myron H. Nordquist, Neal R. Grandy, Satya N. Nandan, and Shabtai Rosenne, United Nations Convention on the Law of the Sea 1982, Volume II A Commentary, 249, Martinus Nijioff Publishers(Aug 1993). Note that these were already included in the draft of articles made by the International Law Committee in 1956.
+37. Malgorzata Materna, Adjusting the Aperture: The International Law Case for Qualifying Unmanned Vessels as Warships, 100 Int’l L. Stud. 472, 452 (2023) (discussing differences in crew condition of warships between HC7 and UNCLOS).
+Featured Image: A Seahawk medium displacement unmanned surface vessel participates in U.S. Pacific Fleet’s Unmanned Systems Integrated Battle Problem in the Pacific Ocean, April 21, 2021 (Photo by Chief Mass Communication Specialist Shannon Renfroe/U.S. Navy)
+MARITIME LAWUMANNED VESSELSUNMANNED SYSTEMS
+Post navigation
+PREVIOUS POST
+CIMSEC Call for Volunteers: Editors, Podcasters, Officers, and More
+NEXT POST
+Sea Control 541 – The Globe and Anchor Men with Dr. Mark Folse
+ONE THOUGHT ON “UNMANNED MARITIME SYSTEMS AND WARSHIPS: INTERPRETATIONS UNDER THE LAW OF THE SEA”
+		
+		RTColorado AUGUST 2, 2024 AT 11:07 AM  Are we talking about similar systems to the one the Iranians nearly towed away? Those kind of systems?  REPLY 
+LEAVE A REPLY
+Your email address will not be published. Required fields are marked *
+Comment *
+Name *
+Email *
+Website
+ Notify me of follow-up comments by email.
+ Notify me of new posts by email.
+
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+CATEGORIES
+Categories
+ 	Select Category 	1980s Maritime Strategy Series 	2027 War Readiness Week 	Alliances and Partners 	Announcements 	Beans Boots Bullets 	Book Review 	Call for Articles 	Capability Analysis 	capability development 	Capability Pitch Week 	Chokepoints and Littorals Week 	CNO’s Design Week 	Commentary 	Concepts of Operation 	Culture 	Current Operations 	Cyber 	Cybersecurity Topic Week 	Drones/Unmanned 	Economics and Trade 	Editorial 	Education 	Emerging Tech Week 	Ethics 	Europe 	Events 	Fiction 	Fiction Contest Week 	Fiction Week 	Fleet Warfare Week 	Flotilla Tactical Notes 	Force Development 	Force Structure 	Future Tech 	   3D Printing 	   Cyber War 	   Drones 	   Seasteading 	Global Analysis 	   Africa 	   Arctic 	   Asia-Pacific 	   Europe 	   Middle East 	   North America 	   South America 	   South Pacific/Oceania 	Gray Zone 	History 	Human Capital 	Human Factors Week 	Humanitarian 	Indo-Asia-Pacific 	Information Warfare 	Infrastructure 	Infrastructure and Trade Week 	Integrated Campaigning Week 	Integrated Force Structure Week 	Interviews 	Latin America 	Law of Warfare 	Maritime Cybersecurity Topic Week 	Maritime Law 	Members 	Mine Warfare Topic Week 	Naval Intelligence Week 	New Initiatives 	   Long Reads 	   Members’ Roundup 	Notes to New CNO Week 	Nuclear 	Ocean Governance 	Ocean Governance Week 	Online Schedule 	Operations and Leadership 	Opinion 	Podcast 	   North America 	   Sea Control: Asia-Pacific (ASPI) 	   Sea Control: East Atlantic 	      Falklands Series 	Project Trident 	Readiness 	Real Time Strategy 	   RTS-Podcast 	Recap 	Red Sea Topic Week 	Redefining Readiness Week 	Regional Strategies Week 	Russia-Ukraine War 	Russia-Ukraine Week 	Seamanship and Leadership 	Shipbuilding 	Space 	Strategic Outlook 	   Future War 	Strategic Sealift Week 	Strategy 	Tactical Concepts 	Tactics 	Tactics and Warfighting 	Territorial and Law of the Sea Disputes 	The Lighter Side 	Theory 	Training and Exercises 	Uncategorized 	Undersea 	USMC Transformation Week 	Warfighting Flotilla 	Wargames 	Wargaming 
+RECENT COMMENTS
+		Heinz Dieter Jopp on Neither Fish nor Fowl: China’s Development of a Nuclear Battery AIP Submarine
+		Dr. Ian Ralby on “Legal Finish” in Maritime Security is Too Often Lacking a Legal Start
+		Commander (Dr.)Roshan Kulatunga(Retd) on Geopolitical Competition and Economics in the Indian Ocean Region
+		Travis Prendergast on Building Warfighting Competence: The Halsey Alfa Wargaming Experience
+		JDDrouin on Building Warfighting Competence: The Halsey Alfa Wargaming Experience
+TAGS
+		Africa aircraft carrier Arctic Asia-Pacific Australia Canada China Coast Guard Counter-Piracy cyber Defense distributed lethality drones events Force Planning History India Innovation Iran Japan Leadership Littoral Combat Ship Maritime Security NATO Navy Philippines piracy PLAN PRC Royal Navy Russia Sea Control Somalia South China Sea Strategy Taiwan topic week U.S. Navy UAVs UNCLOS Undersea united kingdom United States US Navy
+Fostering the Discussion on Securing the Seas.
+Center for International Maritime Security
+Fostering the Discussion on Securing the Seas
+WANT TO SUBSCRIBE TO CIMSEC?
+Enter your email address to receive notifications of new CIMSEC posts by email.
+Email Address
+SUBSCRIBE
+INTERESTED IN JOINING CIMSEC?
+CLICK HERE TO APPLY FOR MEMBERSHIP TODAY!
+SUPPORT CIMSEC
+ 
+Proudly powered by WordPress
+
+
+
+
